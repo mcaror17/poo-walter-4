@@ -1,6 +1,4 @@
-package test;
-
-import domain.herencia.CuentaAhorros;
+package domain.herencia;
 
 import java.util.*;
 /**
